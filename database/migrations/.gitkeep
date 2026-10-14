@@ -1,0 +1,3 @@
+# Append-only SQL migration files.
+# Naming: 001_profiles.sql, 002_…, up to 020_seed_data.sql
+# Never rewrite an applied migration — add a new one.

@@ -1,0 +1,2 @@
+# One-time runbooks executed by the project owner in the Supabase SQL editor.
+# These are NOT migrations — they are admin bootstrap scripts.
